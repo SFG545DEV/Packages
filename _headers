@@ -1,0 +1,11 @@
+/main/*
+  Content-Type: application/octet-stream
+
+/community/*
+  Content-Type: application/octet-stream
+
+/main/Packages.json
+  Content-Type: application/json
+
+/community/Packages.json
+  Content-Type: application/json
